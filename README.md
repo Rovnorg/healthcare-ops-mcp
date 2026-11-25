@@ -1,6 +1,6 @@
 # Rōvn Healthcare Operations MCP
 
-[![Rōvn Healthcare Operations MCP connector](https://glama.ai/mcp/connectors/to.rovn/healthcare-ops-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/to.rovn/healthcare-ops-mcp)
+[![Rōvn Healthcare Operations MCP connector](https://glama.ai/mcp/connectors/to.rovn/healthcare-ops-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/to.rovn/healthcare-ops-mcp) [![mcptry](https://mcptry.com/badge/to.rovn/healthcare-ops-mcp)](https://mcptry.com/servers/to.rovn/healthcare-ops-mcp)
 
 Public, zero-authentication, read-only Streamable-HTTP Model Context Protocol (MCP) server hosted by **Rōvn, Inc.** ([rovn.to](https://rovn.to), distinct from Rivon Health).
 
